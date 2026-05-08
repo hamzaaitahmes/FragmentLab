@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentLab</string>
+    <string name="value_prefix">Valeur : %d</string>
+    <string name="hello_message">Bonjour depuis Fragment 1 !</string>
+</resources>
